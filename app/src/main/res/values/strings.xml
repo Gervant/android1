@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="next_button">Вперед</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Неправильно!</string>
+    <string name="question_oceans">Тихий океан больше Атлантического</string>
+    <string name="question_food">Суши придумали Киргизы</string>
+    <string name="question_name">Джон - русское имя</string>
+    <string name="title_activity_cheat">CheatActivity</string>
+    <string name="warning_text">Ты уверен, что хочешь этого?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="cheat_button">Читы</string>
+    <string name="judgment_toast">Читерят только петухи</string>
+</resources>
